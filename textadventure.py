@@ -33,7 +33,7 @@ def textadventure():
     print("You have no idea why you are here, and shattered memories of a former life\nswirl inside your head.")
     m.getch()
     print("")
-    print("Assortments of blades, collections of :")
+    print("Assortments of blades, collections of wares:")
     m.getch()
     print("")
     print("They all flash through your mind, although you can't make any sense of it")
